@@ -1,0 +1,2 @@
+agent_ip$=$0 0.0.0.0
+agent_port$=$12345
